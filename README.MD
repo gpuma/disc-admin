@@ -9,7 +9,7 @@ Written in C# using WinForms, .NET 3.5 and SQLite. Demo:
 ![Word cloud example](demo.gif)
 
 # Building the project
-- Clone the repo: git clone https://github.com/gpuma/disc-admin
+- Clone the repo: `git clone https://github.com/gpuma/disc-admin`
 - Open `DiscAdmin.sln` on Visual Studio (Tested on VS2017 Community)
 - Install Nuget packages: `nuget install packages.config`
 - Ready to go
